@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['height',['HEIGHT',['../_light1_8cpp.html#a4e81322eb1085aca9cd7c5527f5e4c6b',1,'Light1.cpp']]]
+  ['getintersection',['getIntersection',['../_light1_8cpp.html#a624ab125d2b7ef5758f19f79ca3127c6',1,'Light1.cpp']]]
 ];

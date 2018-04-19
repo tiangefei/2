@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['l1_5fx',['l1_x',['../_light1_8cpp.html#a86d5b5904f08be9a6808e3cf2f261de8',1,'Light1.cpp']]],
-  ['l1_5fy',['l1_y',['../_light1_8cpp.html#a993d2c01f233f715593a77aedee18ba5',1,'Light1.cpp']]],
-  ['l2_5fx',['l2_x',['../_light1_8cpp.html#aec199df845fd93b07d637c48fb0d92ce',1,'Light1.cpp']]],
-  ['l2_5fy',['l2_y',['../_light1_8cpp.html#a7972ee7e94e2b882923f5d45a5d1d428',1,'Light1.cpp']]]
+  ['l_5fh',['l_h',['../_light1_8cpp.html#a9c6d3caaee27048620472339bf7f5957',1,'Light1.cpp']]],
+  ['l_5fx',['l_x',['../_light1_8cpp.html#a41a5ae43c5b42c067cdaf1c4394cd327',1,'Light1.cpp']]],
+  ['l_5fy',['l_y',['../_light1_8cpp.html#ab0de7e684a9ac1b10e629df4afc7e90a',1,'Light1.cpp']]]
 ];

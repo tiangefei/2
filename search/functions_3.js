@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['main',['main',['../_light1_8cpp.html#a700a0caa5b70a06d1064e576f9f3cf65',1,'Light1.cpp']]],
-  ['mult',['mult',['../_light1_8cpp.html#a2467546a905f0a2c90b32ac69a55e737',1,'Light1.cpp']]]
+  ['intersect',['intersect',['../_light1_8cpp.html#a81d00894fe2c39ea3dd721b9f4a81d89',1,'Light1.cpp']]],
+  ['inwwall',['inwWall',['../_light1_8cpp.html#af4de098481b6747b299b02ed1a51ec38',1,'Light1.cpp']]]
 ];
